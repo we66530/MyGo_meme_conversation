@@ -1,5 +1,4 @@
 # MyGo_meme_conversation
-# Project Setup
 
 ## Cloning the Repository
 Clone this project to your repository and navigate to the project directory:

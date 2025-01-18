@@ -27,4 +27,10 @@ python all_sentence_chooser.py --input "我都沒有朋友"
 
 You can replace the input text with your desired phrase.
 
+## Example output
+
+![Model will choose the picture with conversation fit your input](./example/example.png)
+
+
+
 

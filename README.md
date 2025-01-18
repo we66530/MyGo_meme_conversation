@@ -1,5 +1,12 @@
 # MyGo_meme_conversation
 
+## Environment setting
+Be sure to install the latest version of the following library:
+1. torch
+2. tf-keras
+3. sentence_transformers
+4. PIL
+
 ## Cloning the Repository
 Clone this project to your repository and navigate to the project directory:
 

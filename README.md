@@ -24,7 +24,7 @@ set TF_ENABLE_ONEDNN_OPTS=0
 2. **Extracted Text Files**
    Download the extracted .txt files from the [Google Drive folder](https://drive.google.com/drive/folders/1J7NPczoyrtd_OoZLZn7Jtruui58q9l2K?usp=sharing).
    Save these files in the `./extracted_text` folder.
-   Note: Currently, only 261 extracted subtitle .txt files are available, while the expected total is approximately 1700. These files will be continuously uploaded to the provided link.
+   **Note**: Currently, only 261 extracted subtitle .txt files are available, while the expected total is approximately 1700. These files will be continuously uploaded to the provided link.
    
 ## Running the Script
 After correctly placing the files, you can run the following command:
